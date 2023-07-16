@@ -1,0 +1,179 @@
+*{
+    font-size: medium;
+    background-color: rgba(223, 219, 219, 0.323);
+    padding: 0;
+    margin: 0;
+}
+
+.appleimg {
+ margin: 20px 250px;
+ display: flex;
+ align-items: center;
+} 
+.appleimg img{
+    width: 50px;
+}
+.downloadcv button{
+    background-color: rgba(253, 84, 0, 0.959);
+    color:white;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+    width: 150px;
+    height: 40px;
+    padding: 10px;
+    margin-left:   180%;
+    margin-top: 0%;
+}
+.listitem{
+    margin-left: 25%;
+}
+.listitem img{
+width: 50px;
+}
+.appldlistitem{
+    display: flex;
+    align-items: center;
+}
+.aboutimg {
+    background-color: rgb(250, 246, 246);
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 20px 250px;
+    display: flex;
+    align-items: center;
+}
+.aboutimg img{
+    width: 20px;
+    padding: 20px
+}
+.resumeimg{
+    background-color: rgb(250, 246, 246);
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 20px 250px;
+    display: flex;
+    align-items: center;
+}
+.resumeimg img{
+    width: 20px;
+    padding: 20px
+}
+.briefcaseimg{
+    background-color: rgb(250, 246, 246);
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 20px 250px;
+    display: flex;
+    align-items: center;
+}
+.briefcaseimg img{
+    width: 20px;
+    padding: 20px
+}
+.settingsimg{
+    background-color: rgb(250, 246, 246);
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 20px 250px;
+    display: flex;
+    align-items: center;
+}
+.settingsimg img{
+    width: 20px;
+    padding: 20px
+}
+.testimoniolimg{
+    background-color: rgb(250, 246, 246);
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 20px 250px;
+    display: flex;
+    align-items: center;
+}
+.testimoniolimg img{
+    width: 20px;
+    padding: 20px
+}
+.blogimg{
+    background-color: rgb(250, 246, 246);
+    border-radius: 7px;
+    width: 150px;
+    height: 40px;
+    margin: 20px 250px;
+    display: flex;
+    align-items: center;
+}
+.blogimg img{
+    width: 20px;
+    padding: 20px
+}
+.contactimg{
+    background-color: rgb(250, 246, 246);
+    width: 150px;
+    height: 40px;
+    border-radius: 7px;
+    margin: 20px 250px;
+    display: flex;
+    align-items: center;
+}
+.contactimg img{
+    width: 20px;
+    padding: 20px;
+}
+.allwnimg {
+    
+/* width: 250px;
+height: 125px; */
+margin-left:-15%;  
+border-radius: 20px;
+background-color: white;
+
+
+}
+.allwnimg img{
+width: 250px;
+margin-top: 0;
+height: 160px;
+}
+.womanNimg h1{
+    text-align: center;
+    font-size: 20px;
+    padding: 5px 15px
+}
+.womanNimg p{ 
+    text-align: center;
+    padding: 5px 15px
+ }
+.womanNimg img{
+    width: 30px; 
+    height: 45px;
+    padding: 5px 2px;
+    margin: 0px 15px 0px 10px;
+}
+.applelogo{
+    
+  background-color: rgb(252, 247, 247);
+  border-radius: 20px;
+    padding: 80px; 
+    margin: 10px 60px;
+    width: 250px ;
+    height: 300px;
+
+}
+.applelogo img{
+ background-color: rgb(250, 248, 248);
+ box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.75);
+ border-radius: 20px;
+ width: 280px;
+}
+.allthreedivimg{
+    display: flex;
+    align-items: center;
+
+}
