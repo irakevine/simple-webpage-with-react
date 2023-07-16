@@ -4,7 +4,6 @@
     padding: 0;
     margin: 0;
 }
-
 .appleimg {
  margin: 20px 250px;
  display: flex;
@@ -133,8 +132,6 @@ height: 125px; */
 margin-left:-15%;  
 border-radius: 20px;
 background-color: white;
-
-
 }
 .allwnimg img{
 width: 250px;
@@ -164,7 +161,6 @@ height: 160px;
     margin: 10px 60px;
     width: 250px ;
     height: 300px;
-
 }
 .applelogo img{
  background-color: rgb(250, 248, 248);
@@ -175,5 +171,4 @@ height: 160px;
 .allthreedivimg{
     display: flex;
     align-items: center;
-
 }

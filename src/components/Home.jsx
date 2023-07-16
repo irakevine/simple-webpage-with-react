@@ -1,5 +1,4 @@
 import "../css/index.css"
-
 import appleimg from '../images/apple2.png'
 import aboutimg from '../images/about1.png'
 import resumeimg from '../images/resume.png'
@@ -15,7 +14,6 @@ import instagramimg from '../images/instagram.png'
 import linkidnimg from '../images/linked-in-logo-of-two-letters.png'
 import applelogoimg from '../images/applelogo.png';
 import listitem from '../images/list-items.png';
-
 
 const Home = () => {
     return (
@@ -77,17 +75,14 @@ const Home = () => {
         </div>
        
       </div>
-    
     <div className="applelogo">
         <div className="applelogoimg">
         <img src={applelogoimg} alt="" />
         </div>
-      
     </div>
     </div>
    
     </div>
     )
 }
-
 export default Home;
